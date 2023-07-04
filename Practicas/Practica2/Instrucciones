@@ -1,0 +1,7 @@
+Instrucciones:
+Si no tienes instalado byaccj instalarlo
+byaccj -J forma.y
+javac *.java
+Genera un error en parser
+Poner como comentario esa linea y guardar
+Ejecutar java Parser
